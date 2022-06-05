@@ -1,0 +1,24 @@
+{
+  "name": "nearest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Tobias",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "eslint": "^8.7.0",
+    "express": "^4.17.2",
+    "express-fileupload": "^1.2.1",
+    "express-session": "^1.17.2",
+    "fs": "^0.0.1-security",
+    "lodash": "^4.17.21",
+    "morgan": "^1.10.0",
+    "neat-csv": "6.1.0",
+    "node-fetch": "^2.6.1"
+  }
+}
